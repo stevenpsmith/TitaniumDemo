@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2010 by Your Company
+
+
+# these should not be edited
+name: democontact
+moduleid: com.chariotsolutions.demo.contact
+guid: 3ef83583-adc9-4236-9388-827557fcc95f
+platform: android
+minsdk: 1.5.1

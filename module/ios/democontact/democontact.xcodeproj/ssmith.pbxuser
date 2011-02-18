@@ -1,0 +1,137 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = D2AAC07D0554694100DB518D /* democontact */;
+		codeSenseManager = 5B6BE9AF130EDA0500024E42 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319740418;
+			PBXWorkspaceStateSaveDate = 319740418;
+		};
+		perUserProjectItems = {
+			5B6BE9B4130EDBD500024E42 /* PBXTextBookmark */ = 5B6BE9B4130EDBD500024E42 /* PBXTextBookmark */;
+			5B6BE9B5130EDBD500024E42 /* PBXTextBookmark */ = 5B6BE9B5130EDBD500024E42 /* PBXTextBookmark */;
+			5B6BE9B6130EDBD500024E42 /* PBXTextBookmark */ = 5B6BE9B6130EDBD500024E42 /* PBXTextBookmark */;
+			5B6BE9B7130EDBD500024E42 /* PBXBookmark */ = 5B6BE9B7130EDBD500024E42 /* PBXBookmark */;
+			5B6BE9B8130EDBD500024E42 /* PBXTextBookmark */ = 5B6BE9B8130EDBD500024E42 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5B6BE9AE130EDA0500024E42 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	24416B8111C4CA220047AFDD /* Build & Test */ = {
+		activeExec = 0;
+	};
+	24DD6CF71134B3F500162E58 /* ComChariotsolutionsDemoContactModule.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1250, 692}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 260}";
+		};
+	};
+	24DD6CF81134B3F500162E58 /* ComChariotsolutionsDemoContactModule.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1250, 1498}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1113}";
+		};
+	};
+	24DE9E0F11C5FE74003F90F6 /* ComChariotsolutionsDemoContactModuleAssets.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1250, 692}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 178}";
+		};
+	};
+	24DE9E1011C5FE74003F90F6 /* ComChariotsolutionsDemoContactModuleAssets.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1250, 692}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 300}";
+		};
+	};
+	5B6BE9AE130EDA0500024E42 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5B6BE9AF130EDA0500024E42 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5B6BE9B4130EDBD500024E42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DE9E0F11C5FE74003F90F6 /* ComChariotsolutionsDemoContactModuleAssets.h */;
+		name = "ComChariotsolutionsDemoContactModuleAssets.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 178;
+		vrLoc = 0;
+	};
+	5B6BE9B5130EDBD500024E42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DE9E1011C5FE74003F90F6 /* ComChariotsolutionsDemoContactModuleAssets.m */;
+		name = "ComChariotsolutionsDemoContactModuleAssets.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 0;
+	};
+	5B6BE9B6130EDBD500024E42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF71134B3F500162E58 /* ComChariotsolutionsDemoContactModule.h */;
+		name = "ComChariotsolutionsDemoContactModule.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 0;
+	};
+	5B6BE9B7130EDBD500024E42 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComChariotsolutionsDemoContactModule.m */;
+	};
+	5B6BE9B8130EDBD500024E42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComChariotsolutionsDemoContactModule.m */;
+		name = "ComChariotsolutionsDemoContactModule.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1113;
+		vrLoc = 0;
+	};
+	D2AAC07D0554694100DB518D /* democontact */ = {
+		activeExec = 0;
+	};
+}
